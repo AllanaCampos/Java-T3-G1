@@ -1,4 +1,4 @@
-# dotNet-T3-equipe-G1
+# Java-T3-equipe-G1
 
 ## Membros da equipe:
 
